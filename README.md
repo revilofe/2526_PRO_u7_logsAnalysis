@@ -404,14 +404,6 @@ This exercise is useful to practice:
 It looks simple, but it is actually a very complete command-line programming task.
 
 ---
-
-Perfecto. Te dejo el texto ya **redactado para pegar directamente en el enunciado**, incorporando:
-
-* la aclaración entre `--stats` y `--report`,
-* el comando de llamada en cada caso,
-* y ejemplos de salida para ambos modos.
-
----
 ---
 
 
